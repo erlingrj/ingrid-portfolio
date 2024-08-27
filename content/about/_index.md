@@ -39,9 +39,16 @@ in nature.
 
 #### Education
 
-* 2019-2024: Masters degree (5 years) in architecture at the Norwegian University of Science and Technology (NNTNU)
-* 2022-2023: Exchange year at the University of Florence (UNIFI)
+* 2019-2024: Masters degree (5 years) in architecture at the Norwegian University of Science and Technology (NTNU)
+* 2022-2023: Exchange year at the University in Florence (UNIFI)
+* 2018-2019: Exchange year at the Politecnico in Torino (POLITO)
 * 2016-2019: Masster degree (5 years) in Cybernetics and Robotics at the Norwegian University og Science and Technology (NTNU) (3 years finished)
 
+#### Experience
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+* 2024, Jan-Jun: NTNU, Student Assistant for "AAR4466 Large Buildings"
+* 2023, Aug: Friis Arkitekter, Summer Intern  
+* 2022, Jun-Aug: Friis Arkitekter, Summer Intern  
+* 2022, Jan-Jun: NTNU, Student Assistant for "AAR4400 Form and Color 1"
+* 2021: Aug-Dec: NTNU, Student Assistant for "AAR4416 Housing"
+* 2017-2024: Realfagshjelpen, Private Math Tutor
