@@ -8,7 +8,6 @@ weight = 0
 +++
 <!--more-->
 
-
 In this project I designed an eco-village after permaculture design principles.
 
 {{<gallery
