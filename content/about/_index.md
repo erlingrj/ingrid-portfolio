@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "about me"
 +++
 
 Hello! I am an Norwegian architect called Ingrid. 
