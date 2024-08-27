@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2024 Ingrid Lien Halvorsen"
   sidebarAbout = [
-  "Norwegian architect"
+  "architecture"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
