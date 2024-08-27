@@ -5,8 +5,7 @@ title = "about me"
 
 Hello! I am an Norwegian architect called Ingrid. 
 
-
-![This is me](/img/ingrid.jpg)
+![](/img/about/me_small.jpg)
 
 I graduated from the Norwegian
 University of Science and Technology (NTNU)
