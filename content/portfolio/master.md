@@ -8,6 +8,7 @@ weight = 0
 +++
 <!--more-->
  
+
 In this project I designed an eco-village after permaculture design principles.
 
 Lerfald Ecovillage is a master’s thesis in architecture where we explore alternative ways for humans to live in the world. Somewhere along the way in human development, we lost our connection to nature. This has led to an alienation both in ourselves and in our surroundings. This disconnection from nature is now destroying the earth and our very livelihood. When did we stop living in harmony with nature?
