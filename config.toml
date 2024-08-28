@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://ingridlien.no"
 title = "Ingrid Lien Halvorsen"
 theme = ["hugo-creative-portfolio-theme", "hugo-shortcode-gallery"]
 languageCode = "en-us"
