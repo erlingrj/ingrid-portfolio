@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "/img/reuse/axio.png"
+image = "/img/reuse/render2.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Competition: Reuse the Tower"
 weight = 1

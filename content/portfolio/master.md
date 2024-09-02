@@ -1,15 +1,17 @@
 +++
 showonlyimage = true
 draft = false
-image = "/img/master/model.jpg"
+image = "/img/master/interior.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Master Thesis: Lerfald Ecovillage"
 weight = 0
 +++
-<!--more-->
- 
 
-In this project I designed an eco-village after permaculture design principles.
+My master thesis, together witrh Casper Kragholm, consisted of designing an eco-village after permaculture design principles.
+<!--more-->
+![](/img/master/meg_masterutstilling.jpg) 
+
+
 
 Lerfald Ecovillage is a master’s thesis in architecture where we explore alternative ways for humans to live in the world. Somewhere along the way in human development, we lost our connection to nature. This has led to an alienation both in ourselves and in our surroundings. This disconnection from nature is now destroying the earth and our very livelihood. When did we stop living in harmony with nature?
 
