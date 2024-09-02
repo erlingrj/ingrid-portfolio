@@ -7,6 +7,7 @@ Hello! I am an Norwegian architect called Ingrid.
 
 ![](/img/about/me_small.jpg)
 
+
 I graduated from the Norwegian
 University of Science and Technology (NTNU)
 in May 2024 with a masters degree in architecture. I
@@ -51,3 +52,7 @@ in nature.
 * 2022, Jan-Jun: NTNU, Student Assistant for "AAR4400 Form and Color 1"
 * 2021: Aug-Dec: NTNU, Student Assistant for "AAR4416 Housing"
 * 2017-2024: Realfagshjelpen, Private Math Tutor
+
+
+## CV
+{{< embed-pdf url="/test.pdf" >}}

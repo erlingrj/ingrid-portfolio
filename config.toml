@@ -1,6 +1,7 @@
-baseurl = "https://example.org/"
+baseurl = "https://ingridlien.no"
 title = "Ingrid Lien Halvorsen"
-theme = ["hugo-creative-portfolio-theme", "hugo-shortcode-gallery"]
+theme = ["hugo-embed-pdf-shortcode", "hugo-creative-portfolio-theme", "hugo-shortcode-gallery"]
+enableInlineShortcodes = true
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -41,13 +42,21 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
+  name = "about"
+  url = "about/"
+
+  [[params.navlinks]]
   name = "projects"
   url = "portfolio/"
   home = true
-
+  
   [[params.navlinks]]
-  name = "about"
-  url = "about/"
+  name = "thesis"
+  url = "thesis/"
+  
+  [[params.navlinks]]
+  name = "media"
+  url = "media/"
 
   [[params.navlinks]]
   name = "contact"
