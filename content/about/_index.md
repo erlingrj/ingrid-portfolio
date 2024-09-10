@@ -30,7 +30,7 @@ is something I value.
 
 In my free time, I lead an active life. I lived on
 a sailboat for some years and spent two years
-in Italy dyring my studies. Living on a sailboat
+in Italy during my studies. Living on a sailboat
 had its challenges, but it provided a unique
 experience and education about alternative
 ways of living. Apart from sailing, I practice
@@ -55,4 +55,4 @@ in nature.
 
 
 ## CV
-{{< embed-pdf url="/test.pdf" >}}
+{{< embed-pdf url="/pdf/cv.pdf" >}}

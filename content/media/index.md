@@ -1,4 +1,4 @@
-# Media
+# media
 
 ## 2022
 - [Morgenbladet: Pregløs kald og kjedelig: Har nye visjoner for fjordbyen i Oslo](https://www.morgenbladet.no/ideer/2022/06/17/preglos-kald-og-kjedelig-har-nye-visjoner-for-fjordbyen-i-oslo/)
