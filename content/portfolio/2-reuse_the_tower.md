@@ -11,7 +11,7 @@ weight = 300
 
 ![](/img/reuse/render1.jpg) 
  
-## Protector of the Sea
+## protector of the sea
 
 Competition proposal for "Reuse The Tower 2023" together with Eir Petursdottir, Elisabeth Otte and Torgeir Kjetilsønn. 
 
