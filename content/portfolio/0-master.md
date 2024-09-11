@@ -3,12 +3,13 @@ showonlyimage = true
 draft = false
 image = "/img/master/main.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Master Thesis: Lerfald Ecovillage"
+title = "master thesis: lerfald ecovillage"
 weight = 1
 +++
 
 
-My master thesis, together witrh Casper Kragholm, consisted of designing an ecovillage after permaculture design principles. The full thesis can be read and downloaded on the "thesis" page.
+My master thesis, together with Casper Kragholm, consisted of designing an ecovillage after permaculture design principles. The full thesis can be read and downloaded on the "thesis" page.
+
 <!--more-->
 ![](/img/master/meg_masterutstilling.jpg) 
 
