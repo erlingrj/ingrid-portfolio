@@ -13,7 +13,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "red"
   description = "Describe your website"
-  copyright = "&copy;2024 Ingrid Lien Halvorsen"
+  copyright = "&copy;2025 Ingrid Lien Halvorsen"
   sidebarAbout = [
   "architecture and design"
   ]
@@ -58,10 +58,6 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "media"
   url = "media/"
-
-  [[params.navlinks]]
-  name = "contact"
-  url = "contact/"
 
   [params.social]
   email         = "ingrid.l.halvorsen@outlook.com"
